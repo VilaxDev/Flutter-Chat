@@ -1,5 +1,6 @@
 # Miscellaneous
 *.class
+*.chat_page.dart
 *.log
 *.pyc
 *.swp
