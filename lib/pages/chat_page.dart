@@ -108,6 +108,7 @@ class _ChatPageState extends State<ChatPage> {
                                 color: Colors.grey,
                               ),
                             ),
+                            //one commit preview
                             Material(
                               borderRadius: BorderRadius.circular(10.0),
                               elevation: 5.0,
@@ -166,7 +167,7 @@ class _ChatPageState extends State<ChatPage> {
                       child: TextField(
                         controller: _messageController,
                         decoration: InputDecoration(
-                          hintText: 'Enter your message...',
+                          hintText: 'Enter your messagehhbbs',
                           border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(20.0),
                           ),
