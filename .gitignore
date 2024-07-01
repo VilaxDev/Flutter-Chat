@@ -43,4 +43,4 @@ app.*.map.json
 /android/app/release
 
 # Specific file to ignore
-/pages/authentication/chat_page.dart
+lib/apis/apis.dart
